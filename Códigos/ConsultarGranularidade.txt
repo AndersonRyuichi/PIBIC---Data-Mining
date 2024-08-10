@@ -1,0 +1,38 @@
+      caso	atividade/evento	timestamp
+	1	Alta paceinte		dias
+	2	Alta paceinte		dias
+	3	Alta paceinte		dias
+	4	Alta paceinte		dias
+	1	Triagem			horas
+	2	Triagem			horas	
+	3	Triagem			horas
+	4	Triagem			horas
+	1	Consulta		minutos
+	2	Consulta		horas
+	3	Consulta		minutos
+	4	Consulta		horas
+	1	Exame			minutos
+	3	Exame			minutos
+	5	Triagem			minutos
+	5	Consulta		minutos
+	2	Exame			minutos
+
+"alta paciente" aparece:   4 vezes com granularidade dia, 
+			   0 vezes com granularidade hora,
+			   0 vez com granularidade minutos, 
+			   0 vezes com granularidade segundos.
+
+"triagem" aparece:   	   0 vezes com granularidade dia, 
+			   4 vezes com granularidade hora,
+			   0 vez com granularidade minutos, 
+			   1 vezes com granularidade segundos.
+
+"consulta" aparece:        0 vezes com granularidade dia, 
+			   2 vezes com granularidade hora,
+			   3 vez com granularidade minutos, 
+			   0 vezes com granularidade segundos.
+
+"exame" aparece:           0 vezes com granularidade dia, 
+			   0 vezes com granularidade hora,
+			   3 vez com granularidade minutos, 
+			   0 vezes com granularidade segundos.

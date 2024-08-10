@@ -1,0 +1,35 @@
+caso    	  atividade         granularidade
+ 1          	alta paciente		dias
+ 2          	alta paciente		dias
+ 3          	alta paciente		dias
+ 4          	alta paciente		dias
+ 1		triagem			horas	
+ 2		triagem			horas
+ 3		triagem			horas
+ 4		triagem			horas
+ 1		consulta		minutos
+ 2		consulta		horas
+ 3		consulta		minutos
+ 4		consulta		horas
+ 1		exame			minutos
+ 3		exame			minutos
+
+"alta paciente" aparece:   4 vezes com granularidade dia, 
+			   0 vezes com granularidade hora,
+			   0 vez com granularidade minutos, 
+			   0 vezes com granularidade segundos.
+
+"triagem" aparece:   	   0 vezes com granularidade dia, 
+			   4 vezes com granularidade hora,
+			   0 vez com granularidade minutos, 
+			   0 vezes com granularidade segundos.
+
+"consulta" aparece:        0 vezes com granularidade dia, 
+			   2 vezes com granularidade hora,
+			   2 vez com granularidade minutos, 
+			   0 vezes com granularidade segundos.
+
+"exame" aparece:           0 vezes com granularidade dia, 
+			   0 vezes com granularidade hora,
+			   2 vez com granularidade minutos, 
+			   0 vezes com granularidade segundos.

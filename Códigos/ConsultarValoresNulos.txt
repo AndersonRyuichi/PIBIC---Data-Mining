@@ -1,0 +1,27 @@
+      caso	atividade/evento	timestamp
+	1	Alta paceinte		dias
+	2	Alta paceinte		-
+	3	Alta paceinte		dias
+	4	Alta paceinte		dias
+	1	Triagem			horas
+	2	Triagem			-	
+	3	Triagem			horas
+	4	Triagem			horas
+	1	Consulta		-
+	2	Consulta		horas
+	3	Consulta		minutos
+	4	Consulta		horas
+	1	Exame			-
+	3	Exame			minutos
+	5	Triagem			minutos
+	5	Consulta		minutos
+	2	Exame			minutos
+
+nulos: 4
+porcentagem de valores nulos: 22,22%
+--------------------------------------------------------
+Calculando a porcentagem de 4(nulos) em 18(atividade):
+%/100 = 4/18
+% x 18 = 4 x 100
+% = 4 x 100/18 
+% = 22,222222%
